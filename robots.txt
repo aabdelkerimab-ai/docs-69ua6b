@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-b95scr.planetjp.online/sitemap.xml
